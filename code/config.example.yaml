@@ -1,12 +1,12 @@
 #  飞书
-APP_ID: cli_axxx
-APP_SECRET: xxx
-APP_ENCRYPT_KEY: xxx
-APP_VERIFICATION_TOKEN: xxx
+APP_ID: cli_a4a2a0846139900d
+APP_SECRET: EVEMf4dGrmdnTZDFHYMpULgoAiJScGwb
+APP_ENCRYPT_KEY: 9mAeBTLYaC9iNLVRIndGgg4LWRVOEtFv
+APP_VERIFICATION_TOKEN: 6ujn4FBbN8e5SFtbcwOlzd20MKGwAA1x
 # 请确保和飞书应用管理平台中的设置一致
-BOT_NAME: chatGpt
+BOT_NAME: yunliChatGpt
 # openAI key 支持负载均衡 可以填写多个key 用逗号分隔
-OPENAI_KEY: sk-xxx,sk-xxx,sk-xxx
+OPENAI_KEY: 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
 # 服务器配置
 HTTP_PORT: 9000
 HTTPS_PORT: 9001
